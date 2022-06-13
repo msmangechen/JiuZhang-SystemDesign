@@ -130,3 +130,7 @@ A: 是由 client 自己 redirect，而不是 server redirect。
 403 Forbidden：该HTTP状态码是关于授权方面的。从性质上来说是永久的东西，和应用的业务逻辑相关联。它比401更具体，更实际。收到403响应表示服务器完成认证过程，但是客户端请求没有权限去访问要求的资源。
 
 总的来说，401 Unauthorized响应应该用来表示缺失或错误的认证；403 Forbidden响应应该在这之后用，当用户被认证后，但用户没有被授权在特定资源上执行操作。
+
+
+
+{% embed url="https://www.zhihu.com/question/29270034" %}
