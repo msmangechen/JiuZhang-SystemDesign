@@ -1,8 +1,8 @@
-# Chapter 14
+# Chapter 14 聊天系统 Chat system
 
 Q:&#x20;
 
-![](<.gitbook/assets/image (46).png>)
+![](<../.gitbook/assets/image (46).png>)
 
 A: ABE
 
@@ -18,7 +18,7 @@ A: 不是
 
 Q:
 
-![](<.gitbook/assets/image (31).png>)
+![](<../.gitbook/assets/image (31).png>)
 
 A: A C E
 
@@ -26,8 +26,10 @@ A: A C E
 
 Q:
 
-![](<.gitbook/assets/image (76).png>)\
+\
 
+
+![](<../.gitbook/assets/image (76).png>)
 
 A: B D F
 
@@ -35,7 +37,7 @@ A: B D F
 
 Q:
 
-![](<.gitbook/assets/image (60).png>)
+![](<../.gitbook/assets/image (60).png>)
 
 A: C
 
@@ -43,7 +45,7 @@ A: C
 
 Q:
 
-![](<.gitbook/assets/image (88).png>)
+![](<../.gitbook/assets/image (88).png>)
 
 A: A
 
@@ -51,7 +53,7 @@ A: A
 
 Q:
 
-![](<.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11).png>)
 
 A: B C
 
@@ -59,7 +61,7 @@ A: B C
 
 Q:
 
-![](<.gitbook/assets/image (26).png>)
+![](<../.gitbook/assets/image (26).png>)
 
 A: C
 
@@ -67,7 +69,7 @@ A: C
 
 Q:
 
-![](<.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (16).png>)
 
 A: D
 
@@ -75,7 +77,7 @@ A: D
 
 Q:
 
-![](<.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 A: A
 
@@ -83,7 +85,7 @@ A: A
 
 Q:
 
-![](<.gitbook/assets/image (52).png>)
+![](<../.gitbook/assets/image (52).png>)
 
 A: D
 
@@ -91,7 +93,7 @@ A: D
 
 Q:
 
-![](<.gitbook/assets/image (33).png>)
+![](<../.gitbook/assets/image (33).png>)
 
 A: A
 
@@ -99,7 +101,7 @@ A: A
 
 Q:
 
-![](<.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (18).png>)
 
 A: D
 
@@ -109,7 +111,7 @@ A: D
 
 Q:
 
-![](<.gitbook/assets/image (71).png>)
+![](<../.gitbook/assets/image (71).png>)
 
 A: A C
 
@@ -124,7 +126,7 @@ A: 不能
 
 Q: &#x20;
 
-![](<.gitbook/assets/image (55).png>)
+![](<../.gitbook/assets/image (55).png>)
 
 A: A B C
 
@@ -134,7 +136,7 @@ is\_online 可以通过 `last_updated_at` 获取到，因此不需要重复存�
 
 Q:
 
-![](<.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3).png>)
 
 A: A
 
@@ -144,7 +146,7 @@ A: A
 
 Q:
 
-![](<.gitbook/assets/image (62).png>)
+![](<../.gitbook/assets/image (62).png>)
 
 A: CD
 
@@ -162,7 +164,7 @@ Message Queue 的作用是做任务纷发，Message Queue 自己不做存储。�
 
 Q:
 
-![](<.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6).png>)
 
 A: B
 
